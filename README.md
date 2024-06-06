@@ -1,9 +1,4 @@
 # Snake-Game
-Sure, here is the revised description with a more detailed and friendly Acknowledgments section:
-
----
-
-## Snake Game in Java
 
 ### Overview
 
@@ -64,7 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Friends and Family:** Special thanks to friends and family who provided feedback and playtested the game.
 - **You:** A big shoutout to you for taking the time to check out this project. Whether you're here to learn, contribute, or just play the game, your interest and participation are greatly appreciated.
 - **Fun and Learning:** This project was as much about having fun as it was about learning and improving Java programming skills. We hope you enjoy playing it as much as we enjoyed creating it!
-
----
-
-Feel free to adjust any part of this to better match your personal touch and project specifics.
