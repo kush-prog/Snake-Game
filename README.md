@@ -1,4 +1,4 @@
-# Snake-Game
+## Snake Game in Java
 
 ### Overview
 
