@@ -43,14 +43,6 @@ This project is a classic Snake game implemented in Java. It serves as a fun and
 - Try to eat the food to grow longer and increase your score.
 - Avoid collisions with the walls and the snake's own body to keep playing.
 
-### Contributing
-
-Contributions are welcome! If you have any ideas for new features or improvements, feel free to open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ### Acknowledgments
 
 - **Inspired by Nostalgia:** Inspired by the classic Snake game that many of us enjoyed during childhood on old Nokia phones and early computers.
